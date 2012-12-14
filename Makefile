@@ -13,7 +13,6 @@ server:
 
 publish: clean build-doc
 	@ghp-import _site
-	@git push origin gh-pages
 
 clean:
 	@rm -fr _site

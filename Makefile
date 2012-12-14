@@ -12,7 +12,7 @@ server:
 	@nico server -C nico.json -q --theme=$(THEME) --watch
 
 publish: clean build-doc
-	@ghp-import _site
+	@./ghp-import _site -b master -p
 
 clean:
 	@rm -fr _site

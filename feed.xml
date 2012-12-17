@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>lepture's lab</title>
+    <link href="http://lab.lepture.com/" rel="self" />
+    <link href="http://lab.lepture.com/feed.xml" />
+    <id>http://lab.lepture.com/feed.xml</id>
+    <entry>
+        <title type="html"><![CDATA[Release nico 0.1.0]]></title>
+        <link href="http://lab.lepture.com/news/nico-0.1.0"/>
+        <published>2012-12-17T17:25:00+08:00</published>
+        <updated>2012-12-17T17:23:09+08:00</updated>
+        <id>http://lab.lepture.com/news/nico-0.1.0</id>
+        <content type="html" xml:base="http://lab.lepture.com" xml:lang="en">
+            <![CDATA[ <p>nico is a front-end friendly static site generator, best for web developers like you and me.</p>
+
+<p>This is the very first release of nico. I just started this project from scratch. Maybe it&#39;s not from scratch, because the concept was ready, I borrowed it from liquidluck.</p>
+
+<ul>
+<li>The homepage of nico: <a href="http://lab.lepture.com/nico/">http://lab.lepture.com/nico/</a></li>
+<li>The sourcecode of nico: <a href="https://github.com/lepture/nico">https://github.com/lepture/nico</a></li>
+</ul>
+
+<p>Contributing is welcome, but make sure you have read the <a href="https://github.com/lepture/nico/blob/master/CONTRIBUTING.md">Contributing Guide</a>.</p>
+
+<p>If you feel frusrated, please let me know. If you feel happy, please tell your friends.</p>
+]]>
+        </content>
+    </entry>
+</feed>

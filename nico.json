@@ -3,10 +3,18 @@
   "output": "_site",
   "permalink": "{{directory}}/{{filename}}",
   "sitename": "lepture's lab",
+  "siteurl": "http://lab.lepture.com",
   "google": "UA-21475122-1",
+  "perpage": 1000,
+  "navigation": [
+    {"title": "News", "link": "news/index.html"}
+  ],
   "writers": [
     "nico.PageWriter",
+    "nico.PostWriter",
     "nico.FileWriter",
+    "nico.DirectoryWriter",
+    "nico.FeedWriter",
     "nico.StaticWriter"
   ]
 }

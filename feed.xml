@@ -25,5 +25,17 @@
 <p>If you feel frusrated, please let me know. If you feel happy, please tell your friends.</p>
 ]]>
         </content>
+    </entry><entry>
+        <title type="html"><![CDATA[Arale in node]]></title>
+        <link href="http://lab.lepture.com/news/arale-in-node"/>
+        <published>2012-12-19T18:20:00+08:00</published>
+        <updated>2012-12-19T18:20:39+08:00</updated>
+        <id>http://lab.lepture.com/news/arale-in-node</id>
+        <content type="html" xml:base="http://lab.lepture.com" xml:lang="en">
+            <![CDATA[ <p>Arale is a great project by <a href="http://aralejs.org">Arale Team</a>, I transported <a href="http://aralejs.org/class/">class</a> and <a href="http://aralejs.org/events/">events</a> into node. Actually I published it days ago for <a href="http://lab.lepture.com/nico/">nico</a> project.</p>
+
+<p>The class and events of arale are stable now, they are really friendly for developers. Hope you enjoy it. Have a glance at the <a href="http://lab.lepture.com/arale/">documentation</a>.</p>
+]]>
+        </content>
     </entry>
 </feed>

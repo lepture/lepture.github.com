@@ -9,7 +9,7 @@ build-doc:
 	@nico build -C nico.json -v --theme=$(THEME)
 
 server:
-	@nico server -C nico.json -q --theme=$(THEME) --watch
+	@nico server -C nico.json --theme=$(THEME) --watch
 
 publish: clean build-doc
 	@./ghp-import _site -b master -p

@@ -3,13 +3,11 @@
 
 .PHONY: build-doc publish clean server
 
-THEME = $(HOME)/.spm/themes/one
-
 build-doc:
-	@nico build -C nico.json -v --theme=$(THEME)
+	@nico build -C nico.json -v
 
 server:
-	@nico server -C nico.json --theme=$(THEME) --watch
+	@nico server -C nico.json --watch
 
 publish: clean build-doc
 	@./ghp-import _site -b master -p

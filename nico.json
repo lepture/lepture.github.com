@@ -1,6 +1,7 @@
 {
   "source": "content",
   "output": "_site",
+  "theme": "_themes/one",
   "permalink": "{{directory}}/{{filename}}",
   "sitename": "lepture's lab",
   "siteurl": "http://lab.lepture.com",
@@ -8,7 +9,6 @@
   "google": "UA-21475122-5",
   "perpage": 1000,
   "navigation": [
-    {"title": "News", "link": "news/index.html"}
   ],
   "writers": [
     "nico.PageWriter",

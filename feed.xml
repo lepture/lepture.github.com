@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>lepture's lab</title>
-    <link href="http://lab.lepture.com/." rel="self" />
-    <link href="http://lab.lepture.com/_site/feed.xml" />
-    <id>http://lab.lepture.com/_site/feed.xml</id>
-    
-</feed>

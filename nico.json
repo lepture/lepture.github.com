@@ -8,6 +8,7 @@
   "feedurl": "http://lab.lepture.com/feed.xml",
   "google": "UA-21475122-5",
   "perpage": 1000,
+  "touchIcon": "/apple-touch-icon.png",
   "navigation": [
   ],
   "writers": [
@@ -15,7 +16,6 @@
     "nico.PostWriter",
     "nico.FileWriter",
     "nico.DirectoryWriter",
-    "nico.FeedWriter",
     "nico.StaticWriter"
   ]
 }

@@ -30,7 +30,7 @@ OAuthlib implementation for Flask. This is a replacement of Flask-OAuth.
 
 ### Flask-WTF
 
-- GitHub: [ajford/flask-wtf](https://github.com/ajford/flask-wtf)
+- GitHub: [lepture/flask-wtf](https://github.com/lepture/flask-wtf)
 - Documentation: <https://flask-wtf.readthedocs.org>
 
 Simple integration of Flask and WTForms, including CSRF, file upload and

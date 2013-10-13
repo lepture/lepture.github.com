@@ -23,15 +23,23 @@ Here is a list of Flask Extensions that I am working/maintaining on.
 
 ### Flask-OAuthlib
 
+<div class="github-card" data-user="lepture" data-repo="flask-oauthlib">
+
 - GitHub: [lepture/flask-oauthlib](https://github.com/lepture/flask-oauthlib)
 - Documentation: <https://flask-oauthlib.readthedocs.org>
+
+</div>
 
 OAuthlib implementation for Flask. This is a replacement of Flask-OAuth.
 
 ### Flask-WTF
 
+<div class="github-card" data-user="lepture" data-repo="flask-wtf">
+
 - GitHub: [lepture/flask-wtf](https://github.com/lepture/flask-wtf)
 - Documentation: <https://flask-wtf.readthedocs.org>
+
+</div>
 
 Simple integration of Flask and WTForms, including CSRF, file upload and
 Recaptcha integration.
@@ -50,8 +58,12 @@ A list of ready to use softwares rather than libraries.
 
 ### nico
 
+<div class="github-card" data-user="lepture" data-repo="nico">
+
 - Language: Javascript
 - GitHub: [lepture/nico](https://github.com/lepture/nico)
+
+</div>
 
 Just another static site generator, but in nodejs. It's front-end friendly.
 By the way, this site is built by [nico](/nico/).
@@ -74,3 +86,5 @@ It can do some tasks before refreshing the browser.
 - Documentation: <http://lab.lepture.com/ganam-cli/>
 
 A style guide generator for css and stylus.
+
+<script src="http://lab.lepture.com/github-cards/widget.js"></script>

@@ -87,4 +87,6 @@ It can do some tasks before refreshing the browser.
 
 A style guide generator for css and stylus.
 
+<meta name="gc:client-id" content="a11a1bda412d928fb39a">
+<meta name="gc:client-secret" content="92b7cf30bc42c49d589a10372c3f9ff3bb310037">
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>

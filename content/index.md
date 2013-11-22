@@ -16,6 +16,17 @@ all under BSD License, except that I have declared it under another License.
 
 Check my [Wish List](https://www.amazon.com/registry/wishlist/373NY7OIMSWGJ), buy me a kindle book for supporting my works.
 
+## Python Libraries
+
+Some python libraries that are under maintenance.
+
+### otpauth
+
+Implements two-step verification of HOTP/TOTP. Also known as one time password.
+
+- GitHub: https://github.com/lepture/otpauth
+- Documentation: https://pythonhosted.org/otpauth/
+
 
 ## Flask Extensions
 
@@ -24,22 +35,20 @@ Here is a list of Flask Extensions that I am working/maintaining on.
 ### Flask-OAuthlib
 
 <div class="github-card" data-user="lepture" data-repo="flask-oauthlib">
+</div>
 
 - GitHub: [lepture/flask-oauthlib](https://github.com/lepture/flask-oauthlib)
 - Documentation: <https://flask-oauthlib.readthedocs.org>
-
-</div>
 
 OAuthlib implementation for Flask. This is a replacement of Flask-OAuth.
 
 ### Flask-WTF
 
 <div class="github-card" data-user="lepture" data-repo="flask-wtf">
+</div>
 
 - GitHub: [lepture/flask-wtf](https://github.com/lepture/flask-wtf)
 - Documentation: <https://flask-wtf.readthedocs.org>
-
-</div>
 
 Simple integration of Flask and WTForms, including CSRF, file upload and
 Recaptcha integration.
@@ -58,12 +67,10 @@ A list of ready to use softwares rather than libraries.
 
 ### nico
 
-<div class="github-card" data-user="lepture" data-repo="nico">
+<div class="github-card" data-user="lepture" data-repo="nico"></div>
 
 - Language: Javascript
 - GitHub: [lepture/nico](https://github.com/lepture/nico)
-
-</div>
 
 Just another static site generator, but in nodejs. It's front-end friendly.
 By the way, this site is built by [nico](/nico/).

@@ -4,7 +4,7 @@
 
 Hi, I am Hsiaoming Yang (aka lepture elsewher).
 
-I am currently living in Hangzhou, China. You can reach me by [Twitter](https://twitter.com/lepture) or contact <me@lepture.com>.
+I am blogging at [Just lepture](http://lepture.com/). You can reach me by [Twitter](https://twitter.com/lepture) or contact <me@lepture.com>.
 
 
 ## Open Source

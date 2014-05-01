@@ -20,12 +20,21 @@ Check my [Wish List](https://www.amazon.com/registry/wishlist/373NY7OIMSWGJ), bu
 
 Some python libraries that are under maintenance.
 
-### otpauth
+### mistune
 
-Implements two-step verification of HOTP/TOTP. Also known as one time password.
+<div class="github-card" data-github="lepture/mistune"></div>
+
+- GitHub: https://github.com/lepture/mistune
+- Article: http://lepture.com/en/2014/markdown-parsers-in-python
+
+The fastest markdown parser in pure Python, inspired by marked.
+
+### otpauth
 
 - GitHub: https://github.com/lepture/otpauth
 - Documentation: https://pythonhosted.org/otpauth/
+
+Implements two-step verification of HOTP/TOTP. Also known as one time password.
 
 
 ## Flask Extensions
